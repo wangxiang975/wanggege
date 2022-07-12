@@ -17,6 +17,6 @@ public class SpringbootApplication {
 
 	@GetMapping("/")
 	public String index(){
-		return "ok";
+		return "王哥";
 	}
 }
